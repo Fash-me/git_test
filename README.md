@@ -1,1 +1,1 @@
-This is Fash's first git project
+This Fash's first git project
